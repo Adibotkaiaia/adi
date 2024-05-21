@@ -52,7 +52,7 @@ async def start(event):
 ━━━━━━━━━━━━━━━━━━━━━━━━",
         link_preview=False,
         buttons=[
-            [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "https://t.me/Branded_MentionBot?startgroup=true")],
+            [Button.url("❤️‍🔥 ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ 💫", "httpntionBot?startgroup=true")],
             [Button.url("❤️‍🔥 ɢʀᴏᴜᴘ 💫", "https://t.me/+Vw3jstAQ-ZdiMTdl"), Button.url("❤️‍🔥 ᴄʜᴀɴɴᴇʟ 💫", "@II_ADI_II"
             [Button.url("❤️‍🔥 ʜᴇʀᴜᴋᴏ ᴄᴄ 💫", "https://t.me/II_ADI_II"), Button.url("❤️‍🔥 𝐕𝐢𝐩●⏤͟͟͞͞𝐀𝐝𝐢𓆪ꪾ ❤️‍🔥", "@II_ADI_II") ]
     )

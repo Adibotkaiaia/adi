@@ -1,7 +1,7 @@
 # A Powerful Music And Management Bot
-# Property Of Branded Indian Largest Support Group
+# Property Of VIP Indian Largest Support Group
 # Rocks © @BRANDRD_BOT © BRANDRD
-# Owner BRANDED + BRANDRD_BOT + BRANDED_WORLD 
+# Owner VIPADI
 
 
 import os, logging, asyncio
@@ -36,7 +36,7 @@ async def start(event):
     
     await event.client.send_file(
         event.chat_id,
-        file="https://telegra.ph/file/104ff7dc07db1240602a5.jpg",
+        file="https://telegra.ph/file/c67ebb7b5c2946e19c68a.jpg",
         caption="━━━━━━━━━━━━━━━━━━━━━━━━
 
 ✪ ɪ ᴀᴍ ᴀʟᴇxᴀ ᴛᴏ ᴍᴇɴᴛɪᴏɴ ᴀʟʟ ᴛʜᴇ ɢʀᴏᴜᴘ ᴍᴇᴍʙᴇʀs ɪɴ ᴛᴇʟᴇɢʀᴀᴍ
@@ -81,7 +81,7 @@ async def help(event):
     chat_id = event.chat_id
     if not event.is_private:
         return await event.respond("ᴅᴇᴀʀ sᴛᴀʀᴛ ᴍᴇ ɪɴ ᴘᴍ ᴛᴏ ᴜsᴇ ᴛʜɪs ᴄᴏᴍᴍᴀɴғ 🥺")
-    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴀʟᴇxᴀ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [ʙʀᴀɴᴅᴇᴅ ʙᴏᴛ](https://t.me/BRANDRD_BOT)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ʙʀᴀɴᴅᴇᴅ\n✪ ʏᴏᴜᴛᴜʙᴇ [ᴄʜᴀɴɴᴇʟ](https://youtube.com/TrickyBranded)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
+    helptext = "✪ ᴏᴡɴᴇʀ ᴍᴇɴᴜ ᴏғ ᴀʟᴇxᴀ ᴍᴇɴᴛɪᴏɴ\n\n✪ ᴍʏ ᴏᴡɴᴇʀ ɪs [ʙʀᴀɴᴅᴇᴅ ʙᴏᴛ](https://t.me/II_VIP_CHATTING_ZONE_II)\n✪ ᴏғғɪᴄɪᴀʟ ᴍᴇᴍʙᴇʀ ᴏғ ʙʀᴀɴᴅᴇᴅ\n✪ ʏᴏᴜᴛᴜʙᴇ [ᴄʜᴀɴɴᴇʟ](https://t.me/II_VIP_CHATTING_ZONE_II)\n✪ ғᴜᴛᴜʀᴇ ᴀɴᴇsᴛʜᴇᴛɪᴄ."
     await event.reply(
         helptext,
         link_preview=False,
@@ -233,5 +233,5 @@ client.run_until_disconnected()
 
 # A Powerful Music And Management Bot
 # Property Of Branded Indian Largest Support Group
-# Rocks © @BRANDRD_BOT © BRANDRD
-# Owner BRANDRD + BRANDRD_BOT + BRANDED_WORLD + BRANDRD SUPPORT CHAT 
+# Rocks © @II_ADI_II
+# Owner VIPADI 
